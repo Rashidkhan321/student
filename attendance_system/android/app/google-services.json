@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208039539541",
+    "project_id": "reelmaker-6f8e7",
+    "storage_bucket": "reelmaker-6f8e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208039539541:android:c65fe0b521cdc1a5bcf5dc",
+        "android_client_info": {
+          "package_name": "com.example.attendance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208039539541-jaiqmd44hboeofaln1t0ggjmtf2smn6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDq8B95rvKkuPrpWO9QNmqd9ZSbb9nVzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208039539541-jaiqmd44hboeofaln1t0ggjmtf2smn6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
